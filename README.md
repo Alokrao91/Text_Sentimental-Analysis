@@ -1,7 +1,4 @@
 # Text_Sentimental-Analysis
-
-Based on the analysis of your dataset (`tweets.csv`), Text/Sentiment Analysis project:
-
 > This project uses machine learning to classify over 7,900 tweets about mobile phones into positive and negative sentiments.
 > By analyzing real user opinions from social media, it uncovers public perception and emotional response to mobile brands.
 > The labeled data enables robust training and evaluation of sentiment models for high accuracy.
