@@ -10,10 +10,6 @@ Based on the analysis of your dataset (`tweets.csv`), Text/Sentiment Analysis pr
 This Text/Sentiment Analysis project focuses on analyzing tweets to determine public sentiment about mobile phones. Using NLP and machine learning, it classifies tweet reviews as positive or negative, revealing customer perceptions and brand reputation. The model helps identify product strengths and pain points directly from real user feedback. These insights enable companies to refine marketing strategies and improve product offerings based on actual sentiment data.
 
 
-Based on the analysis of your files (`tweets.csv`, `cleaned_tweets_v1.pkl`, and both Python scripts), here’s a comprehensive breakdown of the **Text/Sentiment Analysis** project, specifically for classifying tweet reviews of phones as positive or negative:
-
----
-
 ### 🎯 **Project Objective**
 
 To build an end-to-end sentiment analysis model that classifies tweet-based phone reviews into **positive** or **negative**, enabling insights into customer perception, product satisfaction, and brand reputation on social platforms.
